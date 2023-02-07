@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    position: relative;
+}
+
+/* .mm{ 
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    max-width: 576px;
+} */
+
+.ww{
+    font-size: 47px;
+    font-weight: bold;
+}
+
+.ee{
+    font-size: 25px;
+    opacity: .5;
+}
+
+.mm{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    padding: 20px;
+    max-width: 576px;
+    border: white solid 20px;
+    border-radius: 40px;
+    background-color: white;
+    left: 50%;
+    top: 50%;
+}
+
+img{
+    border-radius: 20px;
+}
